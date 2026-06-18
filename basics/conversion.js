@@ -3,7 +3,7 @@ let score = true
 //console.log(typeof score);
 //console.log(typeof (score));
 
-//let valueInNumber = Number(score)
+let valueInNumber = Number(score)
 //console.log(valueInNumber);
 
 
@@ -14,15 +14,14 @@ let score = true
 let isLoggedIn = 1
 
 let booleanIsLoggedIn = Boolean(IsLoggedIn)
-console.log(booleanIsLoggedIn);
+//console.log(booleanIsLoggedIn);
 
 // 1= true;0=false
-// ""=false 
-"ishita"=true
+//""=false 
+//"ishita"=true
 
 let someNumber = 33
 
 let StringNumber = String(someNumber)
-console.log(StringNumber);// 33
-console.log(typeof StringNumber);//string
-
+//console.log(StringNumber);// 33
+//console.log(typeof StringNumber);//string
