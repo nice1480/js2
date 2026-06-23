@@ -22,8 +22,45 @@
 // it can be alocate in memory directly 
 
 // array,objects,functions
+
+
 // const heros = ["shaktiman","nagraj"] array
+
+// objectys in curly bracket and array in square bracket
 // {
 //    name:"ishita",
 //    age: 22,
 // }
+
+//function(){} this is a funstion 
+//const myFunction= function(){
+   // console.log("hello world")} this is a function stored in variabe
+
+//console={.log(type of .....) to know  type
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack (prenitive), geap(non premitive)
+// stack you get a copy image heap you get original
+
+let myyoutubename = "ishitaa"
+
+let anothername= myyoutubename
+
+//console.log(myyoutubename);
+//console.log(anothername);
+// its a stack you if you change value of anothername it will change on;y that my youtube will not 
+
+let  userone = {
+   email: "hfrthvghm.com"
+   upi:"yghkhj"
+}
+
+let usertwo = userone
+
+usertwo email = "gjbyjvrjvhj.com"
+
+// so it is heap so if you ask for value iy will the change bcz it change from referance not copy like stack
+
+
+
+
